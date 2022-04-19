@@ -26,6 +26,11 @@ This application is designed to produce high-quality README files for a user. I 
 
 To use the application, simply enter "node index.js" within the integrated terminal within the file location and fill in all the prompts. This can be used to produce a README for any type of application, including an app which displays the weather, or even an app which generates READMEs!
 
+[Click HERE to watch a video on how to install and use the README generator!](https://drive.google.com/file/d/1ksIJRohcy5pO3HlkIPssiawa0KrTkxjJ/view)
+
+Demo screenshot
+![README-GeneratorDemo!](./README-GeneratorDemo.png)
+
 ## License
 This project is created under the MIT license
 
