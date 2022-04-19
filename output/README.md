@@ -16,11 +16,7 @@ This application is designed to produce high-quality README files for a user. I 
 
 ## Installation 
 
-1. Clone my repository to your device 
-2. Open in VS code 
-3. Open the integrated terminal within the file location 
-4. Enter "npm -init -y" to initialise npm 
-5. Enter "npm install inquirer" to install inquirer
+1. Clone my repository to your device 2. Open in VS code 3. Open the integrated terminal within the file location 4. Enter "npm -init -y" to initialise npm 5. Enter "npm install inquirer" to install inquirer
 
 ## Usage
 
